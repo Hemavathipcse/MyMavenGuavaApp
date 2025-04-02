@@ -1,9 +1,5 @@
 package com.example;
 
-/**
- * Hello world!
- *
- */
  
  import org.apache.commons.io.FileUtils;
 import java.io.File;
